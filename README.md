@@ -15,6 +15,10 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 ### Lance and Corin
 - [ ] Mustard BBQ Sauce
 - [ ] Coleslaw
+- [ ] Karbach: Sympathy for the Lager
+- [ ] Karbach: IPA (Hopadillo or Weekend Warrior)
+- [ ] Brûléed Maple Bourbon Pumpkin Pie?
+- [ ] The Resistance + expansion
 
 ### Thode
 
