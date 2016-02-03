@@ -21,7 +21,8 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 - [ ] The Resistance + expansion
 
 ### Thode
-
+- [ ] Beer, tell me what or I get what I like
+- [ ] Chips, tell me what or I get what I like
 
 ### Bernardo
 
