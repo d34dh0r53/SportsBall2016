@@ -21,8 +21,12 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 - [ ] The Resistance + expansion
 
 ### Thode
-- [ ] Beer, tell me what or I get what I like
-- [ ] Chips, tell me what or I get what I like
+- [x] Beer
+  - [x] 11x black butte porter  http://www.beeradvocate.com/beer/profile/63/198/
+  - [x] 3x Hefeweissbier Dunkel http://www.beeradvocate.com/beer/profile/252/808/
+  - [x] 3x old rasputin         http://www.beeradvocate.com/beer/profile/112/412/
+- [x] 2x chips
+- [x] 1x salsa
 
 ### Bernardo
 
