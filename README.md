@@ -7,7 +7,9 @@ Menu and planning for the Sportsball party on 02/07/2016. We have plenty of seat
 - [ ] Gumbo
 
 ### Dolph and Ashley
-
+- [ ] Potato salad
+- [ ] Guacamole
+- [ ] Chips
 
 ### Kevin and Rosa
 
